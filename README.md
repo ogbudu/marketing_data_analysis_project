@@ -70,8 +70,8 @@ Combining K-Means clusters with target conversion rates revealed distinct custom
 1. **Run in Google Colab:** Click the **Open In Colab** badge at the top of this README (full runtime is ~1 minute).
 2. **Run Locally / GitHub Codespaces:**
    ```bash
-   git clone https://github.com
-   cd altexamnew
+   git clone https://github.com/ogbudu/my_projects
+   cd my_projects
    pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn kagglehub
    jupyter notebook marketingdataanalysis.ipynb
    ```
